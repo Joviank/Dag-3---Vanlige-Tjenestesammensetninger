@@ -42,7 +42,7 @@ dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
 
 3. Lag ITaskRepository.cs i TaskService
 
-4. Lag EfTaskRepository hvor du flytter database logikken til TaskService.cs til EfTaskRepository.
+4. Lag EfTaskRepository hvor du flytter database logikken fra TaskService.cs til EfTaskRepository.
 (Tilpass dette til EF core, slik at den snakker riktig med databasen.)
 
 5. Gjør endringer i TaskService hvor den kun byr seg om oppførselen til databasen
