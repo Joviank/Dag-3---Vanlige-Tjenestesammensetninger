@@ -1,0 +1,44 @@
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\bin\Debug\net10.0\TaskService.deps.json
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\bin\Debug\net10.0\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\bin\Debug\net10.0\TaskService.pdb
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\obj\Debug\net10.0\TaskService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\obj\Debug\net10.0\TaskService.AssemblyInfoInputs.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\obj\Debug\net10.0\TaskService.AssemblyInfo.cs
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\obj\Debug\net10.0\TaskService.csproj.CoreCompileInputs.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\obj\Debug\net10.0\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\obj\Debug\net10.0\refint\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\obj\Debug\net10.0\TaskService.pdb
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 2 - Eksperimenter med tdd\TaskService\obj\Debug\net10.0\ref\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\bin\Debug\net10.0\TaskService.deps.json
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\bin\Debug\net10.0\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\bin\Debug\net10.0\TaskService.pdb
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\obj\Debug\net10.0\TaskService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\obj\Debug\net10.0\TaskService.AssemblyInfoInputs.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\obj\Debug\net10.0\TaskService.AssemblyInfo.cs
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\obj\Debug\net10.0\TaskService.csproj.CoreCompileInputs.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\obj\Debug\net10.0\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\obj\Debug\net10.0\refint\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\obj\Debug\net10.0\TaskService.pdb
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 1 - TDD\Dag 3 - Grensesnittskontrakter\TaskService\obj\Debug\net10.0\ref\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\bin\Debug\net10.0\TaskService.deps.json
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\bin\Debug\net10.0\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\bin\Debug\net10.0\TaskService.pdb
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\obj\Debug\net10.0\TaskService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\obj\Debug\net10.0\TaskService.AssemblyInfoInputs.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\obj\Debug\net10.0\TaskService.AssemblyInfo.cs
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\obj\Debug\net10.0\TaskService.csproj.CoreCompileInputs.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\obj\Debug\net10.0\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\obj\Debug\net10.0\refint\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\obj\Debug\net10.0\TaskService.pdb
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 1 - Intro til SOA\TaskService\obj\Debug\net10.0\ref\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\bin\Debug\net10.0\TaskService.deps.json
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\bin\Debug\net10.0\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\bin\Debug\net10.0\TaskService.pdb
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\obj\Debug\net10.0\TaskService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\obj\Debug\net10.0\TaskService.AssemblyInfoInputs.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\obj\Debug\net10.0\TaskService.AssemblyInfo.cs
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\obj\Debug\net10.0\TaskService.csproj.CoreCompileInputs.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\obj\Debug\net10.0\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\obj\Debug\net10.0\refint\TaskService.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\obj\Debug\net10.0\TaskService.pdb
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService\obj\Debug\net10.0\ref\TaskService.dll
