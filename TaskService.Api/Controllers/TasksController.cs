@@ -32,4 +32,11 @@ public class TaskController : ControllerBase
         _taskService.DeleteTask(id);
         return NoContent();
     }
+
+    [HttpPatch("{id}/complete")]
+    public IActionResult CompleteTask(int id)
+    {
+        _taskService.CompleteTask(id);
+        return NoContent();
+    }
 }

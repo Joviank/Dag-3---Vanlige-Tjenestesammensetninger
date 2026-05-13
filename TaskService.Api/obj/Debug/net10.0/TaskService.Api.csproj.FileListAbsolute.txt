@@ -201,3 +201,9 @@ C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - 
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\obj\Debug\net10.0\TaskService.Api.pdb
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\obj\Debug\net10.0\TaskService.Api.genruntimeconfig.cache
 C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\obj\Debug\net10.0\ref\TaskService.Api.dll
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\bin\Debug\net10.0\TaskService.Api.staticwebassets.runtime.json
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\obj\Debug\net10.0\TaskService.Api.RazorAssemblyInfo.cache
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\obj\Debug\net10.0\TaskService.Api.RazorAssemblyInfo.cs
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\obj\Debug\net10.0\TaskService.Api.sourcelink.json
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\obj\Debug\net10.0\compressed\oprhaio0lv-{0}-l91fcj86xa-l91fcj86xa.gz
+C:\Users\Jovia\Documents\Jobb\JobLoop\Backend\Undervisning\MarstilApril\Uke 2 - SoA\Dag 3 - Vanlige Tjenestesammensetninger\TaskService.Api\obj\Debug\net10.0\compressed\grvwnu51si-{0}-n4hb604r8b-n4hb604r8b.gz
